@@ -38,7 +38,7 @@ The script was executed in the following environment, yielding the results below
 
 3.  **Install Dependencies**:
     ```bash
-    npm install pg pg-copy-streams
+    npm install dotenv pg pg-copy-streams
     ```
 
 4.  **Create Database Schema**:
